@@ -1,0 +1,1 @@
+export const SUPER_ADMIN_PHONE = '01011342972'; // رقم المشرف الرئيسي 
